@@ -19,7 +19,7 @@
 
 ## **Формат сдачи**
 
-[Ссылка]([(https://github.com/TheLegendMaster2023/python)]) на созданный GitHub репозиторий, содержащий:
+[Ссылка](https://github.com/TheLegendMaster2023/python) на созданный GitHub репозиторий, содержащий:
 
 - Историю коммитов
 - Созданную ветку
